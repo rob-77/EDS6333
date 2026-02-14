@@ -10,7 +10,7 @@ print(s)
 
 
 # ---------------------------------------------------------
-# analysis.R
+# LoadingData.R
 # Example: Loading a text file from the data/ folder
 # ---------------------------------------------------------
 
