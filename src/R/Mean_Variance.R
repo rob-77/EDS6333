@@ -9,3 +9,6 @@ weighted.mean(x, f)   # ans: [1] 15.44444
 sqrt((1/(sum(f)-1))*(sum(f*x^2)-(1/sum(f))*(sum(x*f)^2)))
 # ans: [1] 1.666667   # srqt() is square root function.
 
+
+
+
