@@ -64,3 +64,6 @@ Example(R):
 school.txt Data file containing student information on the following columns
 
     id gender ethnic soc_eco schooltype programtype read write math science
+
+
+RG
